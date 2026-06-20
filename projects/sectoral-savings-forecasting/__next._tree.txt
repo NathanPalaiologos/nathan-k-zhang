@@ -1,4 +1,4 @@
-:HL["/nathan-k-zhang/_next/static/chunks/14t1f__c-qsn9.css","style"]
+:HL["/nathan-k-zhang/_next/static/chunks/29-1-ko-luc-l.css","style"]
 :HL["/nathan-k-zhang/project-images/savings_forecast_rmse_report.png","image"]
 :HL["/nathan-k-zhang/project-images/savings_variograms_differenced.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sectoral-savings-forecasting","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"dXgCOOlY1x0loH2HYViJk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sectoral-savings-forecasting","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"6gEdLW3rlMlt7d5LYlDZc"}
