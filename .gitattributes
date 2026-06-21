@@ -1,0 +1,7 @@
+# The public repository is static export output.
+* linguist-generated=true
+
+README.md linguist-generated=false
+.gitattributes linguist-generated=false
+.nojekyll linguist-generated=false
+

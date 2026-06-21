@@ -2,4 +2,4 @@
 :HL["/nathan-k-zhang/project-images/praxis_econ227_next_word_prediction.png","image"]
 :HL["/nathan-k-zhang/project-images/praxis_cnn_convolution_diagram.png","image"]
 :HL["/nathan-k-zhang/project-images/praxis_image_kouroi_embeddings.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"praxis-ubc-ai-literacy","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Dc2aWxRYAe21BtCn3gW-y"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"praxis-ubc-ai-literacy","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uPhriR8qOH81qvPQRMRrD"}

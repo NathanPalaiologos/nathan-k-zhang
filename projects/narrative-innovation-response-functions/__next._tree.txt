@@ -1,4 +1,4 @@
 :HL["/nathan-k-zhang/_next/static/chunks/1ra4ziftipfml.css","style"]
 :HL["/nathan-k-zhang/project-images/nirf_response_curve.png","image"]
 :HL["/nathan-k-zhang/project-images/nirf_state_heatmap.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"narrative-innovation-response-functions","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Dc2aWxRYAe21BtCn3gW-y"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"narrative-innovation-response-functions","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uPhriR8qOH81qvPQRMRrD"}
