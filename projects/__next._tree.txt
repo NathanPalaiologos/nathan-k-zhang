@@ -1,9 +1,9 @@
 :HL["/nathan-k-zhang/_next/static/chunks/0xd20w4lt71y1.css","style"]
-:HL["/nathan-k-zhang/_next/static/chunks/2m09nioe2zyct.css","style"]
+:HL["/nathan-k-zhang/_next/static/chunks/2lg9rv7nl5a79.css","style"]
 :HL["/nathan-k-zhang/_next/static/media/03fc1b4a8d284b5e-s.p.0wiir8udbzjvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/nathan-k-zhang/_next/static/media/23b7a97ae3b5c134-s.p.226pwps5o-gq_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/nathan-k-zhang/_next/static/media/68d403cf9f2c68c5-s.p.20at88_q9f_kt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/nathan-k-zhang/_next/static/media/979870e237799b4d-s.p.04un7hlid11ne.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/nathan-k-zhang/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/nathan-k-zhang/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ElEqRonROFn06KExf470h"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MqahCtfbnrAxEW_H69_L1"}
