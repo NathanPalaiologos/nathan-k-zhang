@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[2433,["/nathan-k-zhang/_next/static/chunks/1k3fxjhcrubfu.js","/nathan-k-zhang/_next/static/chunks/14mrh2-p_w84d.js","/nathan-k-zhang/_next/static/chunks/1yas38czo2avc.js","/nathan-k-zhang/_next/static/chunks/0iyhial5j7cqk.js"],"LifeView"]
-3:I[97367,["/nathan-k-zhang/_next/static/chunks/1k3fxjhcrubfu.js","/nathan-k-zhang/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[2433,["/nathan-k-zhang/_next/static/chunks/3hz0-fef0snqf.js","/nathan-k-zhang/_next/static/chunks/14mrh2-p_w84d.js","/nathan-k-zhang/_next/static/chunks/1yas38czo2avc.js","/nathan-k-zhang/_next/static/chunks/3aijvtvzinijx.js"],"LifeView"]
+3:I[97367,["/nathan-k-zhang/_next/static/chunks/3hz0-fef0snqf.js","/nathan-k-zhang/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/nathan-k-zhang/_next/static/chunks/420ob3zo4ql1p.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/nathan-k-zhang/_next/static/chunks/420ob3zo4ql1p.css","precedence":"next"}],["$","script","script-0",{"src":"/nathan-k-zhang/_next/static/chunks/1yas38czo2avc.js","async":true}],["$","script","script-1",{"src":"/nathan-k-zhang/_next/static/chunks/0iyhial5j7cqk.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RVTR19_GetWaX_6yM8APQ"}
+:HL["/nathan-k-zhang/_next/static/chunks/446nh9hggx-e8.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/nathan-k-zhang/_next/static/chunks/446nh9hggx-e8.css","precedence":"next"}],["$","script","script-0",{"src":"/nathan-k-zhang/_next/static/chunks/1yas38czo2avc.js","async":true}],["$","script","script-1",{"src":"/nathan-k-zhang/_next/static/chunks/3aijvtvzinijx.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OJrNBGz2tpM2af1lDhTER"}
 5:null
