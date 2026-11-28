@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /nathan-k-zhang/
+Disallow: /nathan-k-zhang/life/
+
+Sitemap: https://NathanPalaiologos.github.io/nathan-k-zhang/sitemap.xml
